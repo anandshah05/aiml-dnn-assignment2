@@ -5,12 +5,15 @@
 -   **Student Name:** Anand Shah
 -   **Student ID:** 2026AJ05251
 -   **Chosen Variants & Hyperparameters:**
-    -   **Problem 1 Hidden Size:** h = 64 (applied uniformly across RNN,
+    -   **Problem 1
+        -   Hidden Size:** h = 64 (applied uniformly across RNN,
+        -   **Seeds for 3-seed runs:** 42, 43, 44
         LSTM, and GRU)
-    -   **Problem 2 Model Width:** d = 128 (divisible by num_heads: d /
+    -   **Problem 2
+        - Model Width:** d = 128 (divisible by num_heads: d /
         4 = 32)
-    -   **Feed-Forward Dimension:** d_ff = 4*d = 512
-    -   **Seeds for 3-seed runs:** 42, 43, 44
+        -   **Feed-Forward Dimension:** d_ff = 4*d = 512
+        -   **Seeds for 3-seed runs:** 42, 43, 44
 
 ### Datasets and environment
 
@@ -21,11 +24,18 @@
     [Tiny Shakespeare](https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt)
     input text is used.
 
-### Setup and Installation:
+### Setup and Installation
 
 ```bash
 pip install -r requirements.txt
 ```
+
+If not aliased, use pip3 directly 
+
+```bash
+pip3 install -r requirements.txt
+```
+
 
 ### Directory structure
 
