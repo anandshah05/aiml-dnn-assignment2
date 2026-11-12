@@ -1,0 +1,4 @@
+problem,model,seed,seq_len,test_acc,macro_f1,test_mse,params,sec_per_epoch,val_loss_nats,bits_per_char,notes
+p2,Transformer_PE_sinusoidal,42,17,0.9006,0.8986,,407046,1.35,,,"Ablation: sinusoidal PE"
+p2,Transformer_PE_none,42,17,0.9162,0.9163,,407046,1.35,,,"Ablation: none PE"
+p2,Transformer_PE_learned,42,17,0.8935,0.8938,,409222,1.34,,,"Ablation: learned PE"

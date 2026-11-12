@@ -1,0 +1,47 @@
+=== GENERATED SAMPLES FROM CAUSAL TRANSFORMER (Tiny Shakespeare) ===
+
+--- SAMPLE AT TEMPERATURE 0.2 ---
+KING LEAR:
+And the ther the the the so ther ther the the the the there the the the ther the the there the the the the the the the he t th t t the t the tho the ththathese te touthe the t s thathe t thist thin sthe t t there thathisthis that sono t the th the be the therere he the he the the the he hes he he he henene he he he the he he he he he he the he he here he he he he he he the he athe he he here he he
+
+============================================================
+
+--- SAMPLE AT TEMPERATURE 0.8 ---
+KING LEAR:
+Fen him thour digh, to pruthis ther and
+And:
+Thast ond fre my cou ne and grow tith mad ances; the thy shousty,
+Hong me h aleth m b s tis b h s, me thabththusthe at I shfute this don wan ombousooidrsowe ne h he at h spth meaisthth t kio, th,
+an s haly stes haverhste s h hen, ten sh.
+AN s thy me he shhimereth lises hthe mevemealimeris perithe be an: te henoromean thely howath s m y hee hfen, thonghe
+
+============================================================
+
+--- SAMPLE AT TEMPERATURE 1.5 ---
+KING LEAR:
+Ofct my, loffgus th
+T?
+
+ELLYCL:
+Yow'd  gre.'
+
+Bfst,sh, I ve
+LAdblise qutBeen:
+Comeh to righ treee, Mas ainewhe pkeoreft
+D VIncth imorvot, he werOFEY boravimer wbee,
+COs l ghorerfomusin'E
+WW'M.
+KI by alathr louteuvena,
+Lou? mappro-, G-hsinseviby pin
+NGRDAUSt h.
+EG-ke.
+
+CINalirbsitet avelesh.
+S:
+ASt wankhf ildy pen, f; ne RGARINNGBp t, mbk;-, pvas'
+hebk:
+MANotibI N: h wh ERHAUCitcos'ch
+ARRS fust aic
+
+============================================================
+

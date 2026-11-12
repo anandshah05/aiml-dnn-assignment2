@@ -1,0 +1,13 @@
+problem,model,seed,seq_len,test_acc,macro_f1,test_mse,params,sec_per_epoch,val_loss_nats,bits_per_char,notes
+p1,RNN,42,128,0.7781,0.7753,,5190,0.58,,,"HAR classification"
+p1,RNN,43,128,0.7441,0.7389,,5190,0.56,,,"HAR classification"
+p1,RNN,44,128,0.8049,0.8027,,5190,0.51,,,"HAR classification"
+p1,LSTM,42,128,0.8700,0.8702,,19590,1.78,,,"HAR classification"
+p1,LSTM,43,128,0.8504,0.8493,,19590,1.77,,,"HAR classification"
+p1,LSTM,44,128,0.8836,0.8834,,19590,1.80,,,"HAR classification"
+p1,GRU,42,128,0.8578,0.8562,,14790,1.38,,,"HAR classification"
+p1,GRU,43,128,0.8833,0.8834,,14790,1.37,,,"HAR classification"
+p1,GRU,44,128,0.8799,0.8799,,14790,1.36,,,"HAR classification"
+p2,Transformer_PE_sinusoidal,42,17,0.9006,0.8986,,407046,1.35,,,"Ablation: sinusoidal PE"
+p2,Transformer_PE_none,42,17,0.9162,0.9163,,407046,1.35,,,"Ablation: none PE"
+p2,Transformer_PE_learned,42,17,0.8935,0.8938,,409222,1.34,,,"Ablation: learned PE"
