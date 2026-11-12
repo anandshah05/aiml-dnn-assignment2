@@ -5,11 +5,11 @@
 -   **Student Name:** Anand Shah
 -   **Student ID:** 2026AJ05251
 -   **Chosen Variants & Hyperparameters:**
-    -   **Problem 1
+    -   **Problem 1**:
         -   Hidden Size:** h = 64 (applied uniformly across RNN,
         -   **Seeds for 3-seed runs:** 42, 43, 44
         LSTM, and GRU)
-    -   **Problem 2
+    -   **Problem 2**:
         - Model Width:** d = 128 (divisible by num_heads: d /
         4 = 32)
         -   **Feed-Forward Dimension:** d_ff = 4*d = 512
